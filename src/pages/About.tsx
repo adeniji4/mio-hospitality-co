@@ -123,7 +123,7 @@ const About = () => {
               once: true
             }} className="order-1 lg:order-2 flex justify-center">
                 <div className="max-w-[300px] sm:max-w-[400px] md:max-w-[450px] w-full rounded-lg overflow-hidden shadow-xl bg-red-950 p-4">
-                  <img src="public/photos/b4196b07-03dc-40ee-a6b4-34e891c1b9bd.png" alt="Mio's Hospitality team" className="w-full h-auto rounded-lg" />
+                  <img src="/photos/b4196b07-03dc-40ee-a6b4-34e891c1b9bd.png" alt="Mio's Hospitality team" className="w-full h-auto rounded-lg" />
                 </div>
               </motion.div>
             </div>
